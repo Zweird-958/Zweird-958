@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
-<!--
-**Zweird-958/Zweird-958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 I know
 
-Here are some ideas to get you started:
+<div align="center">
+<!-- Programming Languages -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+</div>
+
+<br>
+
+### 🤓 I've already used
+
+<div align="center">
+
+</div>
+
+<br>
+
+### ⭐ Statistics and Languages
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zweird-958&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zweird-958&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zweird-958&layout=compact&theme=tokyonight" />
+</div>
