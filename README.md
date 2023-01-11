@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
-### 💻 I know
+<h2 align="center"> 💻</h2>
+<hr>
 
 <div align="center">
 <!-- Programming Languages -->
@@ -16,15 +17,8 @@
 
 <br>
 
-### 🤓 I've already used
-
-<div align="center">
-
-</div>
-
-<br>
-
-### ⭐ Statistics and Languages
+<h2 align="center"> ⭐ Statistics and Languages ⭐</h2>
+<hr>
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zweird-958&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
